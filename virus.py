@@ -1,5 +1,5 @@
 from turtle import *
-speed(1)
+speed(10000000)
 color('goldenrod')
 bgcolor('black')
 b=200
